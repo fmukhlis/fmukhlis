@@ -26,7 +26,7 @@ Currently learning HL7
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-9D0015?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-D0001C?style=for-the-badge&logo=CSS3&logoColor=white)
 
-**Framework**  
+**Frameworks and Libraries**  
 
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-8F9291?style=for-the-badge&logo=LARAVEL&logoColor=white)
 ![TAILWIND CSS](https://img.shields.io/badge/TAILWINDCSS-D9DADA?style=for-the-badge&logo=TAILWINDCSS&logoColor=black)	
