@@ -3,7 +3,7 @@
 # Hi, I'm Fajar Mukhlis Imananda
 
 I'm a student at UIN Syarif Hidayatullah, Jakarta ID. I have passion in coding for both backend and frontend.  
-I also enjoyed learning game development. But now, i'm currently developing a LIS.
+I also enjoyed learning game development. Currently developing a LIS.
 	
 <br>
 
