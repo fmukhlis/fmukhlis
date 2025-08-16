@@ -1,0 +1,27 @@
+name: Metrics
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  
+  # Run workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "github-metrics"
+  github-metrics:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    
+    environment: 
+      name: production
+      
+    permissions:
+      contents: write
+      
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: fmukhlis/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
