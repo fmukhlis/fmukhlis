@@ -22,7 +22,7 @@ jobs:
       
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: fmukhlis/metrics@master
+      - uses: fmukhlis/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
