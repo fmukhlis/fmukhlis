@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**fmukhlis/fmukhlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Fajar Mukhlis Imananda. A software developer based in Indonesia. I enjoy working on frontend development and building modern web applications.
 
-Here are some ideas to get you started:
+🎓 Informatics graduate from UIN Syarif Hidayatullah Jakarta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Fullstack capable, but I enjoy frontend more
+
+⚡ Frameworks & tools I often use:
+
+- Next.js, React, React Native (Expo)
+- Laravel (for backend)
+- Tailwind CSS, Radix UI
+- Testing: Jest, React Testing Library
+- CI/CD & DevOps (basic): GitHub Actions & Docker
+
+
+
+## Reach Me On :
+
+<a href="mailto:cipherporu9@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GMAIL-cipherporu9@gmail.com-BLACK?style=social&logo=GMAIL"/>
+</a>
+
+
+
