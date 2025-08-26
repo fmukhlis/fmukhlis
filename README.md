@@ -14,11 +14,13 @@ I’m Fajar Mukhlis Imananda. A software developer based in Indonesia. I enjoy w
 - Testing: Jest, React Testing Library
 - CI/CD & DevOps (basic): GitHub Actions & Docker
 
+<p align='center'>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmukhlis/fmukhlis/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fmukhlis/fmukhlis/output/github-contribution-grid-snake.svg">
   <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/fmukhlis/fmukhlis/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
 
 ## Reach Me On :
 
