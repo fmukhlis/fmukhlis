@@ -11,6 +11,7 @@ jobs:
       name: production
     permissions:
       contents: write
+    timeout-minutes: 15
     steps:
       - uses: lowlighter/metrics@v3.34
         with:
@@ -33,9 +34,11 @@ jobs:
           plugin_languages_threshold: 0%
           
   generate-snake-game:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest    
+    permissions: 
+      contents: write
+    timeout-minutes: 5
     steps:
       - uses: Platane/snk@v3.3.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: github-snake.svg
